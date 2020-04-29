@@ -27,13 +27,13 @@ Credit to our team members:
 
 Click the link to see the installastion instruction.
 
-1. [**Environment Setup and Dependencies**](/2019/08/06/MTCNN-dependencies)
+1. [**Environment Setup and Dependencies**](https://tech.connorx.wang/2019/08/06/MTCNN-dependencies/)
 - Install dependencies
 - Check `Python` version and install `pip3`
 - Install `Protobuf 2.6.1`
 - Install `OpenCV 3.3.0`
 - Install `caffe`
-2. [**Install the Camera Module**](/2019/08/06/MTCNN-camera)
+2. [**Install the Camera Module**](https://tech.connorx.wang/2019/08/06/MTCNN-camera)
 - Install the camera hardware
 - Configure the Raspberry Pi
 - Test the camera module
