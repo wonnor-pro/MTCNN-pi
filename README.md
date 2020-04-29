@@ -12,6 +12,7 @@ Credit to our team members:
 * Xiaoqiao Hu, xh297@cam.ac.uk
 * Connor Wang, [@wonnor-pro](https://github.com/wonnor-pro) on Github; xw345@cam.ac.uk
 
+To understand this Neuron Network, you can refer to my post [Understand MTCNN (Multi-task Cascaded Neuron Network) in 10min](https://tech.connorx.wang/2019/11/01/Understanding-MTCNN/)
 - - -
 
 ## Hardware
