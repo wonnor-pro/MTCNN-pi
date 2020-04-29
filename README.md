@@ -45,7 +45,8 @@ You should be able to find three demo files in this repo as we use different str
 
 - demo_slow.py
 - demo_scales.py
-- demo_multiprocess.py
+- demo_multiprocess.py 
+  (Do not run the multiprocess demo for a long time on your Raspberry Pi, as it fully uses its cores and may overheat the chip.)
 
 As the file name suggestes, we used methods like grayscale/selected scales/multiprocessing to improve the inference speed for real-time face detection.
 
