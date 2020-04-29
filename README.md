@@ -40,7 +40,7 @@ Click the link to see the installastion instruction.
 
 ## File Structrues
 
-You should be able to fine three demo files in this repo as we use different methods to speed up the process. It is noteworthy that the accuracy varies from method to method.
+You should be able to find three demo files in this repo as we use different strategies to speed up the process. It is noteworthy that the accuracy varies from method to method.
 
 - demo_slow.py
 - demo_scales.py
