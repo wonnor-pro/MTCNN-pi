@@ -1,6 +1,6 @@
 # MTCNN-pi
 
-We are aiming to implement the real-time face recognition based on Multi-task Convolution Neuron Network on Raspberry Pi 3B. 
+We aim to implement the real-time face recognition based on Multi-task Convolution Neuron Network on Raspberry Pi 3B. 
 
 This project was developed by our develop team based on 
 - Previous work from the [Github Project](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
@@ -45,5 +45,7 @@ You should be able to find three demo files in this repo as we use different str
 - demo_slow.py
 - demo_scales.py
 - demo_multiprocess.py
+
+As the file name suggestes, we uses methods like grayscale/selected scales/multiprocessing to improve the inference speed for real-time face detection.
 
 Requisitions regarding reposting please contact wonnor.cam@gmail.com.
