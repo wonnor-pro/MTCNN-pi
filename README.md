@@ -47,6 +47,6 @@ You should be able to find three demo files in this repo as we use different str
 - demo_scales.py
 - demo_multiprocess.py
 
-As the file name suggestes, we uses methods like grayscale/selected scales/multiprocessing to improve the inference speed for real-time face detection.
+As the file name suggestes, we used methods like grayscale/selected scales/multiprocessing to improve the inference speed for real-time face detection.
 
 Requisitions regarding reposting please contact wonnor.cam@gmail.com.
